@@ -7,4 +7,3 @@ for ($k=8; $k>=1; $k--){ //altura
 	}
 	print "\n";
 }
-k=k+1
